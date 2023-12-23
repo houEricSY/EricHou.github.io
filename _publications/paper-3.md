@@ -6,10 +6,10 @@ excerpt: 'Deep learning techniques have been employed to design a controllable h
 date: '2023-08-04'
 venue: 'ACM SIGGRAPH Asia 2023'
 paperurl: 'https://dl.acm.org/doi/10.1145/3610548.3618181'
-citation: 'S. Hou, H. Tao, H. Bao and W. Xu, "A Two-part Transformer Network for Controllable Motion Synthesis," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2023.3284402.'
+citation: "Hongyu Tao, Shuaiying Hou, Changqing Zou, Hujun Bao, and Weiwei Xu. 2023. Neural Motion Graph. In SIGGRAPH Asia 2023 Conference Papers (SA '23). Association for Computing Machinery, New York, NY, USA, Article 84, 1–11. https://doi.org/10.1145/3610548.3618181"
 ---
 
 [Download paper here](https://dl.acm.org/doi/10.1145/3610548.3618181)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
-[**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Hongyu Tao, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
+Hongyu Tao, [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), [Changqing Zou](https://changqingzou.weebly.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
