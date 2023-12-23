@@ -9,8 +9,7 @@ paperurl: 'https://ieeexplore.ieee.org/document/10147861'
 citation: 'S. Hou, H. Tao, H. Bao and W. Xu, "A Two-part Transformer Network for Controllable Motion Synthesis," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2023.3284402.'
 ---
 
-[**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Hongyu Tao, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
-
 [Download paper here](https://ieeexplore.ieee.org/document/10147861)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
+[**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Hongyu Tao, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
