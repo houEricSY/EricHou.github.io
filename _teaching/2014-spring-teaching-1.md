@@ -4,7 +4,7 @@ collection: teaching
 type: "Research Intern"
 permalink: /teaching/2014-spring-teaching-1
 venue: "XMov"
-date: 2018-07 to 2021-05
+date: 2018-07
 location: "Shanghai, China"
 ---
 
