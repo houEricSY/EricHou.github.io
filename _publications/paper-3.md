@@ -1,3 +1,7 @@
+[Download paper here](https://dl.acm.org/doi/10.1145/3610548.3618181)
+
+Hongyu Tao, [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), [Changqing Zou](https://changqingzou.weebly.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
+
 ---
 title: "Neural Motion Graph"
 collection: publications
@@ -8,7 +12,3 @@ venue: 'ACM SIGGRAPH Asia 2023'
 paperurl: 'https://dl.acm.org/doi/10.1145/3610548.3618181'
 citation: "Hongyu Tao, Shuaiying Hou, Changqing Zou, Hujun Bao, and Weiwei Xu. 2023. Neural Motion Graph. In SIGGRAPH Asia 2023 Conference Papers (SA '23). Association for Computing Machinery, New York, NY, USA, Article 84, 1–11. https://doi.org/10.1145/3610548.3618181"
 ---
-
-[Download paper here](https://dl.acm.org/doi/10.1145/3610548.3618181)
-
-Hongyu Tao, [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), [Changqing Zou](https://changqingzou.weebly.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
