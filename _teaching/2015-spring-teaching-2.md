@@ -1,8 +1,8 @@
 ---
 title: "Working experience 2"
-collection: working
+collection: teaching
 type: "Research Intern"
-permalink: /working/working-2
+permalink: teaching/2015-spring-teaching-2
 venue: "HUAWEI"
 date: 2021-07 to 2022-12
 location: "Hangzhou, China"
