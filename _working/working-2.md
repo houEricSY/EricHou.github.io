@@ -4,7 +4,7 @@ collection: working
 type: "Research Intern"
 permalink: /working/working-2
 venue: "HUAWEI"
-date: 2021-07 to 2022-12
+date: 2021-07-20
 location: "Hangzhou, China"
 ---
 

@@ -4,7 +4,7 @@ collection: working
 type: "Research Intern"
 permalink: /working/working-1
 venue: "XMov"
-date: 2018-07 to 2021-05
+date: 2018-07-18
 location: "Shanghai, China"
 ---
 
