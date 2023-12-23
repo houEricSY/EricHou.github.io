@@ -2,7 +2,7 @@
 title: "Neural Motion Graph"
 collection: publications
 permalink: /publications/paper-3
-excerpt: 'Deep learning techniques have been employed to design a controllable human motion synthesizer. Despite their potential, however, designing a neural network-based motion synthesis that enables flexible user interaction, fine-grained controllability, and the support of new types of motions at reduced time and space consumption costs remains a challenge.'
+excerpt: 'sss'
 date: '2023-08-04'
 venue: 'ACM SIGGRAPH Asia 2023, Conference Tracking'
 paperurl: 'https://dl.acm.org/doi/10.1145/3610548.3618181'
