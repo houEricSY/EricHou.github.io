@@ -11,9 +11,9 @@ title                    : "Shuaiying Hou / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shuaiying Hou"
 description              : &description "a Ph.D. candidate from Zhejing University"
-url                      : https://houericsy.github.io/EricHou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://houericsy.github.io/ShuaiyingHou/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "houEricSY/ShuaiyingHou"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
