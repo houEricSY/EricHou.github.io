@@ -4,7 +4,7 @@ collection: teaching
 type: "Research Intern"
 permalink: teaching/2015-spring-teaching-2
 venue: "HUAWEI"
-date: 2021-07
+date: '2021-07-20'
 location: "Hangzhou, China"
 ---
 
