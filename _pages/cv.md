@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Software Engineering, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), 2017
@@ -42,55 +43,43 @@ Skills
   * Blender
   * Office
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .hidden-info {
-      display: none;
-      position: absolute;
-      background-color: #f9f9f9;
-      border: 1px solid #ddd;
-      padding: 10px;
-      z-index: 1;
-    }
-  </style>
-</head>
-<body>
 
 Publications
 ======
 * [A causal convolutional neural network for multi-subject motion modeling and generation](https://link.springer.com/article/10.1007/s41095-022-0307-3)\
-[**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Congyi Wang, Wenlin Zhuang, Yu Chen, [Yangang Wang](https://www.yangangwang.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Jinxiang Chai](https://scholar.google.com/citations?user=OcN1_gwAAAAJ&hl=zh-CN), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span id="info-toggle">*</span>
+[**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Congyi Wang, Wenlin Zhuang, Yu Chen, [Yangang Wang](https://www.yangangwang.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Jinxiang Chai](https://scholar.google.com/citations?user=OcN1_gwAAAAJ&hl=zh-CN), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span class="toggle-info" onclick="toggleInfo()">*</span>
+<div class="info" id="info">通讯作者</div>
 
 * [A Two-part Transformer Network for Controllable Motion Synthesis](https://ieeexplore.ieee.org/document/10147861)\
-[**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Hongyu Tao, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span id="info-toggle">*</span>
+[**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Hongyu Tao, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span class="toggle-info" onclick="toggleInfo()">*</span>
+<div class="info" id="info">通讯作者</div>
 
 * [Neural Motion Graph](https://dl.acm.org/doi/10.1145/3610548.3618181)\
-Hongyu Tao, [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), [Changqing Zou](https://changqingzou.weebly.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span id="info-toggle">*</span>
+Hongyu Tao, [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), [Changqing Zou](https://changqingzou.weebly.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span class="toggle-info" onclick="toggleInfo()">*</span>
+<div class="info" id="info">通讯作者</div>
 
-<div id="corresponding-author" class="hidden-info">
-  <p>通讯作者：详细信息在这里。</p>
-</div>
 
-<script>
-  // 获取元素
-  const toggleElement = document.getElementById('info-toggle');
-  const infoElement = document.getElementById('corresponding-author');
-
-  // 添加点击事件
-  toggleElement.addEventListener('click', function() {
-    // 切换显示和隐藏
-    infoElement.style.display = (infoElement.style.display === 'none' || infoElement.style.display === '') ? 'block' : 'none';
-  });
-</script>
-
-</body>
-</html>
 
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
+<script>
+function toggleInfo() {
+    var info = document.getElementById("info");
+    info.style.display = (info.style.display === "none" || info.style.display === "") ? "block" : "none";
+}
+</script>
+
+<style>
+span.toggle-info {
+    cursor: pointer;
+}
+
+div.info {
+    display: none;
+    margin-left: 5px;
+}
+</style>
