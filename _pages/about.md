@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Shuaiying Hou's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Ph.D. student at [State Key Lab of CAD\&CG](http://www.cad.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/).
+I'm currently a Ph.D. student in the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/). Before that, I received my B.S. degree in software engineering from [School of Software](https://ruanjian.nwpu.edu.cn/) at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in 2017. My research interset lies in the field of Computer Animation, especially in human motion modeling and synthesis. Recently, I 
+
+I am passionate about the realm of computer animation, with a specific focus on human motion modeling and synthesis, exploring its applications in diverse fields such as video games and robotics. Recently, I have delved into figuring out how to exploit data from other domains,  including but not limited to videos, texts, and speech, to unravel the intricate relationships between different modalities of data. If you share similar interests, feel free to reach out. I welcome any guidance or collaboration opportunities!
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
