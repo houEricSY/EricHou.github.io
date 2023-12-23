@@ -1,7 +1,7 @@
 ---
 title: "A causal convolutional neural network for multi-subject motion modeling and generation"
 collection: publications
-permalink: /publication/paper-1
+permalink: /publications/2022-08-02-paper-title-number-1
 excerpt: 'Inspired by the success of WaveNet in multi-subject speech synthesis, we propose a novel neural network based on causal convolutions for multi-subject motion modeling and generation. The network can capture the intrinsic characteristics of the motion of different subjects, such as the influence of skeleton scale variation on motion style. Moreover, after fine-tuning the network using a small motion dataset for a novel skeleton that is not included in the training dataset, it is able to synthesize high-quality motions with a personalized style for the novel skeleton. The experimental results demonstrate that our network can model the intrinsic characteristics of motions well and can be applied to various motion modeling and synthesis tasks.'
 date: 2022-08-02
 venue: 'Computational Visual Media (CVMJ)'
