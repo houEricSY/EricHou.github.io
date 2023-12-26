@@ -28,11 +28,11 @@ Work experience
 Skills
 ======
 * Programming Language\
-  Python/++/C#
+  Python/C++/C#
 * Machine Learning Libirary\
   PyTorch/TensorFlow/Caffe
 * Others\
-  MotionBuilder/Unity 3D/OpenGL/Qt/Blender/Office/
+  MotionBuilder/Unity 3D/OpenGL/Qt/Blender/Office
 
 Publications
 ======
