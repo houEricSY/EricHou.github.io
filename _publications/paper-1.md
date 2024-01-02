@@ -15,7 +15,8 @@ citation: 'Hou, S., Wang, C., Zhuang, W. et al. A causal convolutional neural ne
 
 [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Congyi Wang, Wenlin Zhuang, Yu Chen, [Yangang Wang](https://www.yangangwang.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Jinxiang Chai](https://scholar.google.com/citations?user=OcN1_gwAAAAJ&hl=zh-CN), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
 
-**BibTeX**
+
+**BibTeX**\
 @article{hou2023causal,
   title={A causal convolutional neural network for multi-subject motion modeling and generation},
   author={Hou, Shuaiying and Wang, Congyi and Zhuang, Wenlin and Chen, Yu and Wang, Yangang and Bao, Hujun and Chai, Jinxiang and Xu, Weiwei},
