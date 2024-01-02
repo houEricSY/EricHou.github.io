@@ -11,7 +11,7 @@ citation: 'Hou, S., Wang, C., Zhuang, W. et al. A causal convolutional neural ne
 
 [Download paper here](https://link.springer.com/article/10.1007/s41095-022-0307-3)
 
-[Download our dataset here](https://drive.google.com/file/d/1QcnI4YfDWUCwP1VRQ09UnrtU8UJOKdna/view?usp=sharing)
+[Download dataset here](https://drive.google.com/file/d/1QcnI4YfDWUCwP1VRQ09UnrtU8UJOKdna/view?usp=sharing)
 
 [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Congyi Wang, Wenlin Zhuang, Yu Chen, [Yangang Wang](https://www.yangangwang.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Jinxiang Chai](https://scholar.google.com/citations?user=OcN1_gwAAAAJ&hl=zh-CN), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
 
