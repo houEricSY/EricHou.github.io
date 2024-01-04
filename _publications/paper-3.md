@@ -18,12 +18,12 @@ citation: 'Hou, S., Wang, C., Zhuang, W. et al. A causal convolutional neural ne
 
 **BibTeX**\
 @article{hou2024causal,\
-  &emsp;title={A causal convolutional neural network for multi-subject motion modeling and generation},\
-  &emsp;author={Hou, Shuaiying and Wang, Congyi and Zhuang, Wenlin and Chen, Yu and Wang, Yangang and Bao, Hujun and Chai, Jinxiang and Xu, Weiwei},\
-  &emsp;journal={Computational Visual Media},\
-  &emsp;volume={10},\
-  &emsp;number={1},\
-  &emsp;pages={45--59},\
-  &emsp;year={2024},\
-  &emsp;publisher={Springer}\
+  title={A causal convolutional neural network for multi-subject motion modeling and generation},\
+  author={Hou, Shuaiying and Wang, Congyi and Zhuang, Wenlin and Chen, Yu and Wang, Yangang and Bao, Hujun and Chai, Jinxiang and Xu, Weiwei},\
+  journal={Computational Visual Media},\
+  volume={10},\
+  number={1},\
+  pages={45--59},\
+  year={2024},\
+  publisher={Springer}\
 }

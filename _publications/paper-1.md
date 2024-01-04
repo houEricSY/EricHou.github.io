@@ -17,12 +17,12 @@ citation: 'S. Hou, H. Tao, H. Bao and W. Xu, "A Two-part Transformer Network for
 
 **BibTeX**\
 @ARTICLE{10147861,\
-  &emsp;author={Hou, Shuaiying and Tao, Hongyu and Bao, Hujun and Xu, Weiwei},\
-  &emsp;journal={IEEE Transactions on Visualization and Computer Graphics}, \
-  &emsp;title={A Two-part Transformer Network for Controllable Motion Synthesis}, \
-  &emsp;year={2023},\
-  &emsp;volume={},\
-  &emsp;number={},\
-  &emsp;pages={1-16},\
-  &emsp;doi={10.1109/TVCG.2023.3284402}\
+  author={Hou, Shuaiying and Tao, Hongyu and Bao, Hujun and Xu, Weiwei},\
+  journal={IEEE Transactions on Visualization and Computer Graphics}, \
+  title={A Two-part Transformer Network for Controllable Motion Synthesis}, \
+  year={2023},\
+  volume={},\
+  number={},\
+  pages={1-16},\
+  doi={10.1109/TVCG.2023.3284402}\
   }
