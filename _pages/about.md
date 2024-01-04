@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently a Ph.D. student in the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm). Before that, I received my B.S. degree in software engineering from the [School of Software](https://ruanjian.nwpu.edu.cn/) at [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in 2017. 
 
-I am passionate about the realm of computer animation, with a specific focus on human motion modeling and synthesis, exploring its applications in diverse fields such as video games and robotics. Recently, I have delved into figuring out how to exploit data from other domains, including but not limited to videos, texts, and speech, to unravel the intricate relationships between different modalities of data. If you share similar interests, feel free to reach out. I welcome any guidance or collaboration opportunities!
+I am passionate about the realm of computer animation, with a specific focus on human motion modeling and synthesis, exploring its applications in diverse fields such as video games and robotics. Recently, I have delved into figuring out how to exploit data from other domains, including but not limited to videos, texts, and speechs, to unravel the intricate relationships between different modalities of data. If you share similar interests, feel free to reach out. I welcome any guidance or collaboration opportunities!
 
 [Github](https://github.com/houEricSY)
 <!-- [Email](houshuaiying@zju.edu.cn) / [Github](https://github.com/houEricSY) -->
