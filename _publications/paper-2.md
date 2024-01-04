@@ -12,3 +12,22 @@ citation: "Hongyu Tao, Shuaiying Hou, Changqing Zou, Hujun Bao, and Weiwei Xu. 2
 [Download paper here](https://dl.acm.org/doi/10.1145/3610548.3618181)
 
 Hongyu Tao, [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), [Changqing Zou](https://changqingzou.weebly.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
+
+
+**BibTeX**\
+@inproceedings{10.1145/3610548.3618181,\
+&emsp;author = {Tao, Hongyu and Hou, Shuaiying and Zou, Changqing and Bao, Hujun and Xu, Weiwei},\
+&emsp;title = {Neural Motion Graph},\
+&emsp;year = {2023},\
+&emsp;isbn = {9798400703157},\
+&emsp;publisher = {Association for Computing Machinery},\
+&emsp;address = {New York, NY, USA},\
+&emsp;url = {https://doi.org/10.1145/3610548.3618181},\
+&emsp;doi = {10.1145/3610548.3618181},\
+&emsp;booktitle = {SIGGRAPH Asia 2023 Conference Papers},\
+&emsp;articleno = {84},\
+&emsp;numpages = {11},\
+&emsp;keywords = {generative model, motion graph, deep learning, human motion synthesis},\
+&emsp;location = {Sydney, NSW, Australia},\
+&emsp;series = {SA '23}\
+}
