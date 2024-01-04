@@ -1,29 +1,33 @@
 ---
-title: "A causal convolutional neural network for multi-subject motion modeling and generation"
+title: "Neural Motion Graph"
 collection: publications
-permalink: /publications/paper-3
-excerpt: 'Inspired by the success of WaveNet in multi-subject speech synthesis, we propose a novel neural network based on causal convolutions for multi-subject motion modeling and generation. The network can capture the intrinsic characteristics of the motion of different subjects, such as the influence of skeleton scale variation on motion style. Moreover, after fine-tuning the network using a small motion dataset for a novel skeleton that is not included in the training dataset, it is able to synthesize high-quality motions with a personalized style for the novel skeleton. The experimental results demonstrate that our network can model the intrinsic characteristics of motions well and can be applied to various motion modeling and synthesis tasks.'
-date: '2022-08-02'
-venue: 'Computational Visual Media (CVMJ, spotlight)'
-paperurl: 'https://link.springer.com/article/10.1007/s41095-022-0307-3'
-citation: 'Hou, S., Wang, C., Zhuang, W. et al. A causal convolutional neural network for multi-subject motion modeling and generation. Comp. Visual Media 10, 45–59 (2024). https://doi.org/10.1007/s41095-022-0307-3'
+permalink: /publications/paper-2
+excerpt: 'Deep learning techniques have been employed to design a controllable human motion synthesizer. Despite their potential, however, designing a neural network-based motion synthesis that enables flexible user interaction, fine-grained controllability, and the support of new types of motions at reduced time and space consumption costs remains a challenge. In this paper, we propose a novel approach, a neural motion graph, that addresses the challenge by enabling scalability to new motions while using compact neural networks. Our approach represents each type of motion with a separate neural node to reduce the cost of adding new motion types. In addition, designing a separate neural node for each motion type enables task-specific control strategies and has greater potential to achieve a high-quality synthesis of complex motions, such as the Mongolian dance. Furthermore, a single transition network, which acts as neural edges, is used to model the transition between two motion nodes. The transition network is designed with a lightweight control module to achieve a fine-grained response to user control signals. Overall, the design choice makes the neural motion graph highly controllable and scalable. In addition to being fully flexible to user interaction through high-level and fine-grained user-control signals, our experimental and subjective evaluation results demonstrate that our proposed approach, neural motion graph, outperforms state-of-the-art human motion synthesis methods in terms of the quality of controlled motion generation.'
+date: '2023-08-04'
+venue: 'ACM SIGGRAPH Asia 2023'
+paperurl: 'https://dl.acm.org/doi/10.1145/3610548.3618181'
+citation: "Hongyu Tao, Shuaiying Hou, Changqing Zou, Hujun Bao, and Weiwei Xu. 2023. Neural Motion Graph. In SIGGRAPH Asia 2023 Conference Papers (SA '23). Association for Computing Machinery, New York, NY, USA, Article 84, 1–11. https://doi.org/10.1145/3610548.3618181"
 ---
 
-[Download paper here](https://link.springer.com/article/10.1007/s41095-022-0307-3)
+[Download paper here](https://dl.acm.org/doi/10.1145/3610548.3618181)
 
-[Download dataset here](https://drive.google.com/file/d/1QcnI4YfDWUCwP1VRQ09UnrtU8UJOKdna/view?usp=sharing)
-
-[**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Congyi Wang, Wenlin Zhuang, Yu Chen, [Yangang Wang](https://www.yangangwang.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Jinxiang Chai](https://scholar.google.com/citations?user=OcN1_gwAAAAJ&hl=zh-CN), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
+Hongyu Tao, [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), [Changqing Zou](https://changqingzou.weebly.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)
 
 
 **BibTeX**\
-@article{hou2024causal,\
-  title={A causal convolutional neural network for multi-subject motion modeling and generation},\
-  author={Hou, Shuaiying and Wang, Congyi and Zhuang, Wenlin and Chen, Yu and Wang, Yangang and Bao, Hujun and Chai, Jinxiang and Xu, Weiwei},\
-  journal={Computational Visual Media},\
-  volume={10},\
-  number={1},\
-  pages={45--59},\
-  year={2024},\
-  publisher={Springer}\
+@inproceedings{10.1145/3610548.3618181,\
+author = {Tao, Hongyu and Hou, Shuaiying and Zou, Changqing and Bao, Hujun and Xu, Weiwei},\
+title = {Neural Motion Graph},\
+year = {2023},\
+isbn = {9798400703157},\
+publisher = {Association for Computing Machinery},\
+address = {New York, NY, USA},\
+url = {https://doi.org/10.1145/3610548.3618181},\
+doi = {10.1145/3610548.3618181},\
+booktitle = {SIGGRAPH Asia 2023 Conference Papers},\
+articleno = {84},\
+numpages = {11},\
+keywords = {generative model, motion graph, deep learning, human motion synthesis},\
+location = {Sydney, NSW, Australia},\
+series = {SA '23}\
 }
