@@ -1,7 +1,7 @@
 ---
 title: "Neural Motion Graph"
 collection: publications
-permalink: /publications/paper-2
+permalink: /publications/paper-3
 excerpt: 'Deep learning techniques have been employed to design a controllable human motion synthesizer. Despite their potential, however, designing a neural network-based motion synthesis that enables flexible user interaction, fine-grained controllability, and the support of new types of motions at reduced time and space consumption costs remains a challenge. In this paper, we propose a novel approach, a neural motion graph, that addresses the challenge by enabling scalability to new motions while using compact neural networks. Our approach represents each type of motion with a separate neural node to reduce the cost of adding new motion types. In addition, designing a separate neural node for each motion type enables task-specific control strategies and has greater potential to achieve a high-quality synthesis of complex motions, such as the Mongolian dance. Furthermore, a single transition network, which acts as neural edges, is used to model the transition between two motion nodes. The transition network is designed with a lightweight control module to achieve a fine-grained response to user control signals. Overall, the design choice makes the neural motion graph highly controllable and scalable. In addition to being fully flexible to user interaction through high-level and fine-grained user-control signals, our experimental and subjective evaluation results demonstrate that our proposed approach, neural motion graph, outperforms state-of-the-art human motion synthesis methods in terms of the quality of controlled motion generation.'
 date: '2023-08-04'
 venue: 'ACM SIGGRAPH Asia 2023'
