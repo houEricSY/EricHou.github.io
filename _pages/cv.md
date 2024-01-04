@@ -36,11 +36,6 @@ Skills
 
 Publications
 ======
-* [A causal convolutional neural network for multi-subject motion modeling and generation](https://link.springer.com/article/10.1007/s41095-022-0307-3)\
-Computational Visual Media (CVMJ), 2022\
-[**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Congyi Wang, Wenlin Zhuang, Yu Chen, [Yangang Wang](https://www.yangangwang.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Jinxiang Chai](https://scholar.google.com/citations?user=OcN1_gwAAAAJ&hl=zh-CN), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span class="toggle-info" onclick="toggleInfo()">*</span>
-<!-- <div class="info" id="info">corresponding author</div> -->
-
 * [A Two-part Transformer Network for Controllable Motion Synthesis](https://ieeexplore.ieee.org/document/10147861)\
 IEEE Transactions on Visualization and Computer Graphics (TVCG), 2023\
 [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Hongyu Tao, [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span class="toggle-info" onclick="toggleInfo()">*</span>
@@ -50,6 +45,11 @@ IEEE Transactions on Visualization and Computer Graphics (TVCG), 2023\
 ACM SIGGRAPH Asia, 2023\
 Hongyu Tao, [**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), [Changqing Zou](https://changqingzou.weebly.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span class="toggle-info" onclick="toggleInfo()">*</span>
 <div class="info" id="info">corresponding author</div>
+
+* [A causal convolutional neural network for multi-subject motion modeling and generation](https://link.springer.com/article/10.1007/s41095-022-0307-3)\
+Computational Visual Media (CVMJ, **spotlight**), 2024 \
+[**Shuaiying Hou**](https://houericsy.github.io/ShuaiyingHou/), Congyi Wang, Wenlin Zhuang, Yu Chen, [Yangang Wang](https://www.yangangwang.com/), [Hujun Bao](http://www.cad.zju.edu.cn/home/bao/), [Jinxiang Chai](https://scholar.google.com/citations?user=OcN1_gwAAAAJ&hl=zh-CN), [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm)<span class="toggle-info" onclick="toggleInfo()">*</span>
+<!-- <div class="info" id="info">corresponding author</div> -->
 
 
 
